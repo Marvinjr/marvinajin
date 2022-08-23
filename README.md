@@ -1,1 +1,1 @@
-https://daily.dev/blog/adding-the-daily-devcard-to-your-github-profile?utm_source=webapp&utm_medium=devcard&utm_campaign=devcardguide&utm_id=inapp
+<a href="https://app.daily.dev/marvinajin"><img src="https://api.daily.dev/devcards/a27acfc2d1dc4d4492a7f4d818b0c514.png?r=gxr" width="400" alt="Marvin Ajin's Dev Card"/></a>
